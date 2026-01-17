@@ -1,0 +1,4 @@
+This is a sample file.
+it contains some text.
+i will try to copy it elsewhere.
+@#$%^^&
